@@ -1,5 +1,5 @@
 {
-  "job": [
+  "job":[
     {
       "id": 1,
       "company": "Ellette",
@@ -31,13 +31,26 @@
       "postedAt": "2022-12-17T07:44:38.799Z",
       "city": "Koramangala",
       "location": "Bangalore",
-      "role": "frontend",
+      "role": "Frontend",
       "level": "junior",
       "contract": "part time",
       "position": "Junior Frontend Developer",
-      "language": "html,css,js",
+      "language": "Html",
       "logo": "https://www.adaptivewfs.com/wp-content/uploads/2020/07/logo-placeholder-image.png",
       "id": 3
+    },
+    {
+      "company": "Piculet",
+      "postedAt": "2022-12-17T07:59:23.682Z",
+      "city": "Nilambur",
+      "location": "Kerala",
+      "role": "Frontend",
+      "level": "intern",
+      "contract": "full time",
+      "position": "Junior Frontend Developer",
+      "language": "Html",
+      "logo": "https://www.adaptivewfs.com/wp-content/uploads/2020/07/logo-placeholder-image.png",
+      "id": 4
     }
   ]
 }
