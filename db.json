@@ -52,5 +52,31 @@
       "logo": "https://www.adaptivewfs.com/wp-content/uploads/2020/07/logo-placeholder-image.png",
       "id": 4
     }
+  ],
+  "notes": [
+    {
+      "title": "React",
+      "description": "Read the mdn doc of Promise",
+      "date": "22/12/2022",
+      "id": 1
+    },
+    {
+      "title": "Redux",
+      "description": "Need to be more aware in hooks part",
+      "date": "12/22/2022",
+      "id": 2
+    },
+    {
+      "title": "Redux",
+      "description": "Need to be more aware in hooks part",
+      "date": "12/22/2022",
+      "id": 3
+    },
+    {
+      "title": "Redux",
+      "description": "Need to be more aware in hooks part",
+      "date": "12/22/2022",
+      "id": 4
+    }
   ]
 }
